@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "description": "Este es el Task1",
+      "date": "14/10/2022",
+      "status": "Progreso"
+    },
+
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "Este es el Task2",
+      "date": "20/10/2022",
+      "status": "Terminado"
+    }
+  ],
+
+  "users": [
+    {
+      "name": "Eduardo Marcelo",
+      "email": "edumarcer2@gmail.com",
+      "password": "edu15marce18",
+      "phone": "948056545"
+    },
+    {
+      "name": "Juan Enrique",
+      "email": "jgonzalezdiaz@gmail.com",
+      "password": "juangonzalez12",
+      "phone": "940877724"
+    }
+  ]
+}
